@@ -8,7 +8,7 @@
 
 | Member | GitHub username | Personal CSC181 repository |
 |---|---|---|
-| [Full name] | [Username] | [Repository link] |
+| Lex Ian G. Cabasag | codex-coderex | [Repository link](https://github.com/codex-coderex/csc181) |
 | Michael S. Sumagui | michaelsumagui-create | [Repository link](https://github.com/michaelsumagui-create/CSC181) |
 | Francis Cris P. Gerondio | franciscrisgerondio-a11y | [Repository link](https://github.com/franciscrisgerondio-a11y/CCC181_Gerondio_Submissions.git) |
 | Gian Christian S. Bonilla | gianbonilla-IIT | [Repository link](https://github.com/gianbonilla-IIT/BONILLA-CSC181) |
@@ -23,8 +23,8 @@ or an assumption.]
 
 | Member | Problem or inconvenience | Who experiences it? | Current approach | Basis of the idea |
 |---|---|---|---|---|
-| [Name] | [Idea 1] | [Group] | [Approach] | [Basis] |
-| [Name] | [Idea 2] | [Group] | [Approach] | [Basis] |
+| Lex Ian G. Cabasag | Iligan City has a single stationary DENR CAAQMS that reports air quality [1], making residents rely on a variety Facebook posts, news updates, and weather apps. Because these sources are fragmented and lack real-time data (from satellites or other sources), it is difficult for residents to see where smoke haze originates and how it is affecting their area in one centralized place. | Local residents (especially children, the elderly, and people with respiratory conditions like asthma), outdoor workers, and commuters in Iligan City. | Checking weather apps, searching Facebook for posts or news updates, searching online, or visually checking the sky for smoke. | Observation: I have noticed that during the regional haze that currently affects Southeat Asia, local visibility and health are severely affected, but residents have to jump between social media posts and news reports just to figure out where the smoke is coming from, and how affected their area is by the haze, sometimes doing it visually.  |
+| Lex Ian G. Cabasag | MSU-IIT students and visitors spend time wandering multiple multi-story buildings on campus (e.g., COE, CASS, CSM) searching for specific faculty offices, departments, or administrative desks because indoor floor plans are not mapped on standard navigation apps. This leads to wasted time trying to locate offices when doing a task. | MSU-IIT students (such as freshmen), visiting researchers, and faculty members searching for specific office locations. | Asking campus security guards, finding and navigating paper floor directories at building entrances, or walking through corridors  until they find the correct room. | Observation: I am a part of multiple organizations, and have experienced firsthand the confusion of locating offices when doing tasks, especially during my freshman year. Learning the layout took years of trial-and-error to be fully familiarized, even when I was in MSU-IIT as an IDS highschool student.  |
 | Michael S. Sumagui | That can helps students in MSU-IIT find safe and affordable boarding houses near campus. | College students specially for first years that is not from Iligan City and their parents. | Search Facebook groups or ask friends for recommendations or even pay someone for them to look for a place to rent | Observation: Finding trustworthy and affordable accommodation can take time also I always saw post in Facebook that they are looking for a place to rent that is near in their Univeristy |
 | Michael S. Sumagui | An simple app that shows garbage collection schedules and sends reminders. | Most of barangays here in Iligan City and garbage collectors. | Ask neighbors or wait for the garbage truck and if its been waiting for a long time someone will approach to officials or Kagawads who assign in Basura responsibility | Observation: Specially here in Iligan City garbage is everywhere |
 | Francis Cris P. Gerondio | School canteen is too crowded, delaying students' time. | Students and canteen vendors in MSU-IIT. | Students roam inside the canteen trying to see what is available. They order in person and pay either with physical money or an e-wallet. | From our observations, there are various time ranges when the school canteen in MSU-IIT gets very crowded, so moving inside is very difficult. Students who order inside waste so much of their time trying to move through the crowd, and the time wasted would be much longer because of finding the right food and payment (finding money from the wallet and waiting to receive the change). There were even some circumstances where students initially wanted to buy something inside, but after witnessing the horrific amount of people inside, they opted to no longer buy or go outside the campus to buy something. |
@@ -168,7 +168,7 @@ drafting, checking feasibility, and reviewing the final document.]
 
 ## 8. References
 
-[List external sources used. Write None if no external sources were used.]
+[1] [EMB Northern Mindanao MOA with Iligan City LGU for CAAQMS](https://www.facebook.com/EMB.R10/posts/pfbid0BTrtxQNr5PbFgswWBfNnwAXD7Q4uTZY7GPEvXc5NEDG9G5RcH98HkSs5bwsBuXEjl)
 
 ## 9. Team AI Use Declaration
 
